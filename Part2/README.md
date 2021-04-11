@@ -71,5 +71,5 @@ But.... where's the fun without a little effort? ;)
 ### Feedback
 Feel free to contact us, any feedback will be greatly appreciated! :)
 
-
+### Linkedin Blogpost <https://www.linkedin.com/posts/alessandro-marcomini_faotomqchack-microsoft-challenge-activity-6787014602862530560-wc2X>
 
