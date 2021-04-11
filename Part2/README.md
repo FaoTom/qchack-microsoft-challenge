@@ -74,5 +74,6 @@ Feel free to contact us, any feedback will be greatly appreciated! :)
 ### Linkedin Blogpost
 
 <https://www.linkedin.com/posts/alessandro-marcomini_faotomqchack-microsoft-challenge-activity-6787014602862530560-wc2X>
+
 [edited at 12:13 EDT] <https://tommaso-faorlin.medium.com/grovermind-66fbfe8af650>
 
